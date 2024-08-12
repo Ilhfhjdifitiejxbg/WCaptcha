@@ -1,0 +1,5 @@
+name: WCaptcha
+version: 'alpha 0.1'
+main: wtf.n1zamu.NCaptcha
+author: Happy X Katara
+api-version: '1.16'
